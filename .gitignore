@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Images and data
+*.png
+*.jpg
+*.jpeg
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+*.code-workspace
